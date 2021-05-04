@@ -1,14 +1,13 @@
 # GHHC-Def-Live-Preview
+![Def-Preview](https://user-images.githubusercontent.com/80751079/116964418-491f6700-accd-11eb-998c-ef55c99da3fd.png)
 
-📢 GHHC OFFICIAL DEFACE PAGE 🎭
+**📢 GHHC OFFICIAL DEFACE PAGE 🎭**
 
-🔥 GHHC-MangoDef-v1 🔥
+**🔥 GHHC-MangoDef-v1 🔥**
 
 🎯 It has two background music, which are auto-playable.
 🎯 The first one is changeable/Editable.(If you want you can change the music by yourself via using the voiceMessage Variable.)
 🎯 You can add your codename using the codename variable.
-
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 <!--************************************************-->
 <!--||||||||||||||||||||||||||||||||||||||||||||||||-->
