@@ -2,6 +2,13 @@
 ![Def-Preview](https://user-images.githubusercontent.com/80751079/116964418-491f6700-accd-11eb-998c-ef55c99da3fd.png)
 
 **📢 GHHC OFFICIAL DEFACE PAGE 🎭**
+<br>
+<br>
+<h4><b><u>⚡Download⚡</u></b></h4>
+
+<b>⚙<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef.rar">GHHC-MangoDef.rar</a></b>
+<br>
+<br>
 
 **🔥 GHHC-MangoDef-v1 🔥**
 
