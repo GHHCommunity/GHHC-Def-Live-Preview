@@ -12,9 +12,9 @@
 
 **🔥 GHHC-MangoDef-v1 🔥**
 
-🎯 It has two background music, which are auto-playable.
-🎯 The first one is changeable/Editable.(If you want you can change the music by yourself via using the voiceMessage Variable.)
-🎯 You can add your codename using the codename variable.
+🎯 It has two background music, which are auto-playable.<br>
+🎯 The first one is changeable/Editable.(If you want you can change the music by yourself via using the voiceMessage Variable)<br>
+🎯 You can add your codename using the codename variable.<br>
 
 <!--************************************************-->
 <!--||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -35,7 +35,7 @@
 
 
 
-😍 Thank You For Using Our Deface Page 🎭
+😍 Thank You For Using Our Deface Page 🎭<br>
 
-📌 Our Telegram Channel- 🔗https://t.me/GHHCommunity
-📌 Our Official Facebook Page- 🔗https://facebook.com/ghh.community
+📌 Our Telegram Channel- 🔗https://t.me/GHHCommunity <br>
+📌 Our Official Facebook Page- 🔗https://facebook.com/ghh.community <br>
