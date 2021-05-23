@@ -3,7 +3,6 @@
 
 <h3><b><u>📢 GHHC OFFICIAL DEFACE PAGE 🎭</u></b></h3>
 <br>
-<br>
 <h4><b><u>⚡Download⚡</u></b></h4>
 
 <b>⚙<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef.rar">GHHC-MangoDef.rar</a></b>
