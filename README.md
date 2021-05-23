@@ -41,6 +41,7 @@
 ![Screenshot 2021-05-23 141249](https://user-images.githubusercontent.com/80751079/119253015-04eafc80-bbd1-11eb-8f8c-8db4f54912f4.png)
 
 <h4><b><u>🔥About OP-IL-Deface-Page🔥</u></b></h4>
+🎯 It has a voice message & and La_ilaha_illallah.mp3, which are auto-playable.<br>
 🎯 The deface page was modified for the operation IL.
 <br>
 <br>
