@@ -3,13 +3,17 @@
 
 <h3><b><u>📢 GHHC OFFICIAL DEFACE PAGE 🎭</u></b></h3>
 <br>
-<h4><b><u>⚡Download⚡</u></b></h4>
+<h4><b><u>⚡ Download ⚡</u></b></h4>
 
 <b>⚙<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef.rar">GHHC-MangoDef.rar</a></b><br>
 <b>⚙<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/OP-IL-Deface-Page.rar">OP-IL-Deface-Page.rar</a></b>
 <br>
 <br>
 
+<h4><b><u>🔐 Live Preview 🛠</u></b></h4>
+<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef-V1.html">OP-IL-Deface-Page-Preview(Click Here)</a></b><br>
+<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/OP-IL-Deface-Page.html">OP-IL-Deface-Page-Preview(Click Here)</a></b><br>
+<br>
 <h4><b><u>🔥About GHHC-MangoDef-v1🔥</u></b></h4>
 
 🎯 It has two background music, which are auto-playable.<br>
@@ -34,6 +38,7 @@
 <!--|||||COPYRIGHT: Gray Hat Hacker's Community||||||-->
 <!--|\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/|-->
 <!--||||||||||||||||||||||||||||||||||||||||||||||||-->
+![Screenshot 2021-05-23 141249](https://user-images.githubusercontent.com/80751079/119253015-04eafc80-bbd1-11eb-8f8c-8db4f54912f4.png)
 
 <h4><b><u>🔥About OP-IL-Deface-Page🔥</u></b></h4>
 🎯 The deface page was modified for the operation IL.
