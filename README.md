@@ -11,8 +11,8 @@
 <br>
 
 <h4><b><u>🔐 Live Preview 🛠</u></b></h4>
-<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef-V1.html">OP-IL-Deface-Page-Preview(Click Here)</a></b><br>
-<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/OP-IL-Deface-Page.html">OP-IL-Deface-Page-Preview(Click Here)</a></b><br>
+<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/GHHC-MangoDef-V1.html">GHHC-MangoDef-V1-Preview(Click Here)</a></b><br>
+<b>▶<a href="https://ghhcommunity.github.io/GHHC-Def-Live-Preview/OP-IL-Deface-Page.html">OP-IL-Def-Preview(Click Here)</a></b><br>
 <br>
 <h4><b><u>🔥About GHHC-MangoDef-v1🔥</u></b></h4>
 
